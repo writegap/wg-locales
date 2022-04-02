@@ -1,0 +1,69 @@
+{
+	"button": {
+		"downloadPDF": "Download PDF",
+		"discardImage": "Discard Image",
+		"applyImage": "Apply Image",
+		"uploadingImage": "Uploading..."
+	},
+	"hero": {
+		"title": "Tutorial, Article, Discussion, and everything in between!",
+		"subTitle": "Discover a myriad of content ready to explore"
+	},
+	"input": {
+		"label": {
+			"topic": "Topic Title",
+			"coverImage": "Cover Image",
+			"category": "Category",
+			"tags": "Tags",
+			"body": "Topic Body",
+			"summary": "Summary",
+			"filename": "Filename"
+		},
+		"subTitle": {
+			"coverImage": "The image will be used as a thumbnail of your post. 16:9 aspect ratio is recommended.",
+			"body": "Write the blog post using markdown syntax. What is markdown?",
+			"summary": "A summary will be displayed as a thumbnail. Thus, highlight overall of your content while making it as attractive as possible"
+		},
+		"placeholder": {
+			"search": "Title or Keywords",
+			"topic": "Subject of your topic",
+			"category": "Topic category",
+			"tags": "Use space or enter to separate tags",
+			"body": "Give me some letter",
+			"summary": "Summary of the overall content"
+		},
+		"helperText": {
+			"topic": "Describe your topic well, while keeping the title as short as possible",
+			"category": "Pick the most relevant category for your post",
+			"tags": "Available tags"
+		}
+	},
+	"modal": {
+		"discardTitle": "Close Blog?",
+		"discardSubtitle": "This action will save your blog to drafts and redirect you back to dashboard.",
+		"publishTitle": "Publish Blog?",
+		"publishSubtitle": "Publish will show your post to the public, and everyone can read and access your blog post.",
+		"createPostTitle": "Create Blog Post",
+		"createPostSubtitle": "Begin your own story and let the world know.",
+		"managePostTitle": "Manage Your Post",
+		"managePostSubTitle": "Keep track of which post is online and which is offline.",
+		"deletePostTitle": "Delete Blog?",
+		"deletePostSubTitle": "This action will remove the blog from your account. Please proceed with caution.",
+		"unpublishPostTitle": "Sent this blog to draft?",
+		"unpublishPostSubTitle": "This action will make your blog inaccessible to others and will be marked as a draft. Please proceed with caution.",
+		"downloadPDFSubTitle": "You can optionally name your file in the input below. Otherwise, the name will be automatically generated.",
+		"editPostTitle": "Edit Your Blog",
+		"editPostSubTitle": "Before publishing, you can edit and manage your blog content here."
+	},
+	"errorMessage": {
+		"completeBeforePublish": "You need to complete all required fields",
+		"emptyPublishedBlogs": "You don't have any published blogs yet.",
+		"emptyDraftedBlogs": "You don't have any drafted blogs.",
+		"failedDownloadPDF": "Sorry, we failed to generate your file, please try again in a second."
+	},
+	"helperMessage": {
+		"publishedPanelMessage": "This tab shows how many published blogs you have. A maximum number of published blogs is scaled with your subscription.",
+		"draftedPanelMessage": "This tab shows how many drafted blogs you have. Here you can manage your blog before published.",
+		"creatingBlogMessage": "Constructing your blog, please wait..."
+	}
+}

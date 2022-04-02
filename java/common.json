@@ -1,0 +1,91 @@
+{
+	"shared": {
+		"discover": "Temokake",
+		"createPost": "Nggawe Postingan",
+		"previewPost": "Pratinjau Postingan",
+		"learnMarkdown": "sinau markdown",
+		"optional": "Opsional",
+		"dragImageText": "Seret kene utawa klik kanggo nambah gambar.",
+		"dragImageSubText": "JPEG, JPG, utowo PNG, ga lebih teko 5MB.",
+		"editWithPreview": "Sunting nganggo pratinjau",
+		"close": "Nutup",
+		"minimize": "Nyilikake",
+		"cancel": "Mbatalake",
+		"loading": "Ngemot...",
+		"calculating": "Ngitung...",
+		"download": "Ngunduh",
+		"downloadLoading": "Nggawe PDF...",
+		"continueWriting": "Terus nulis",
+		"publishPost": "Nerbitake postingan blog",
+		"publish": "Nerbitake",
+		"saveAndClose": "Simpen nang draft lan nutup",
+		"signIn": "Mlebu",
+		"login": "Mlebu",
+		"or": "utowo",
+		"to": "menyang",
+		"by": "dening",
+		"and": "lan",
+		"back": "Balik",
+		"noAccount": "Durung kadhaftar?",
+		"alreadyHaveAccount": "Wis duwe akun?",
+		"createAccount": "Nggawe Akun",
+		"provider": {
+			"google": "Mlebu nganggo Google",
+			"github": "Mlebu nganggo GitHub",
+			"twitter": "Mlebu nganggo Twitter",
+			"discord": "Mlebu nganggo Discord",
+			"linkedin": "Mlebu nganggo LinkedIn"
+		},
+		"header": {
+			"faq": "Pitakon",
+			"pricing": "Rega",
+			"login": "Mlebu",
+			"menu": {
+				"profile": "Profil Kula",
+				"switchAccount": "Ganti Akun",
+				"logout": "Metu",
+				"switchLanguage": "Ngalih Basa"
+			},
+			"blog": "Blog",
+			"dashboard": "Dashboard"
+		},
+		"myBlog": "Blog Kula",
+		"published": "Diterbitake",
+		"drafts": "Draf",
+		"writeBlog": "Tulis Blog",
+		"edit": "Sunting",
+		"editBlog": "Sunting Blog",
+		"lastEdited": "Pungkasan diowahi",
+		"markAsDraft": "Tandhani minangka draf",
+		"delete": "Mbusak",
+		"loadingAction": "Nindakake aksi, mangga ngenteni...",
+		"time": {
+			"minutes": "menit",
+			"minute": "menit",
+			"seconds": "detik",
+			"second": "detik"
+		},
+		"readTime": "wektu maca",
+		"changesSaved": "Kabeh owahan disimpen",
+		"saving": "Nyimpen...",
+		"alert": {
+			"betaTitle": "Writegap ana ing pangujian beta, sing ateges bisa ana sawetara adaptasi maneh.",
+			"alertDismiss": "Aku ngerti",
+			"cookieConsentTitle": "Kita nggunakake cookie kanggo nganalisa lan ngawasi lalu lintas kinerja situs web; kita ora nate ngumpulake data pribadhi",
+			"acceptCookies": "Trima cookie",
+			"learnMore": "Luwih lengkape"
+		}
+	},
+	"login": {
+		"title": "Sugeng Rawuh",
+		"subTitle": "Mangga pilih kredensial login kanggo miwiti eksplorasi",
+		"tosMessage": "Writegap mung maca data profil saka panyedhiya sing sampeyan pilih. Kanthi mlebu, sampeyan setuju karo",
+		"privacyPolicy": "kabijakan privasi",
+		"termsOfService": "syarat layanan",
+		"redirect": "Sukses mlebu, enteni nalika kita ngarahake sampeyan bali..."
+	},
+	"footer": {
+		"brandText": "Writegap nyedhiyakake papan kanggo nggawe blog, crita, nggawe tutorial, lan nyritakake apa wae sing ana ing pikiran sampeyan.",
+		"brandRight": "2022, Writegap. Hak cipta dilindhungi. Digawe karo ❤️ dening"
+	}
+}

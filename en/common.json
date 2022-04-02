@@ -1,0 +1,91 @@
+{
+	"shared": {
+		"discover": "Discover",
+		"createPost": "Create Post",
+		"previewPost": "Preview Post",
+		"learnMarkdown": "learn markdown",
+		"optional": "Optional",
+		"dragImageText": "Drag here or click to add an image.",
+		"dragImageSubText": "JPEG, JPG, or PNG, no more than 5MB.",
+		"editWithPreview": "Edit with preview",
+		"close": "Close",
+		"minimize": "Minimize",
+		"cancel": "Cancel",
+		"loading": "Loading...",
+		"calculating": "Calculating...",
+		"download": "Download",
+		"downloadLoading": "Generating PDF...",
+		"continueWriting": "Continue writing",
+		"publishPost": "Publish the blog post",
+		"publish": "Publish",
+		"saveAndClose": "Save to draft and close",
+		"signIn": "Sign In",
+		"login": "Login",
+		"or": "or",
+		"to": "to",
+		"by": "by",
+		"and": "and",
+		"back": "Back",
+		"noAccount": "Not registered yet?",
+		"alreadyHaveAccount": "Already have an account?",
+		"createAccount": "Create an Account",
+		"provider": {
+			"google": "Sign in with Google",
+			"github": "Sign in with GitHub",
+			"twitter": "Sign in with Twitter",
+			"discord": "Sign in with Discord",
+			"linkedin": "Sign in with LinkedIn"
+		},
+		"header": {
+			"faq": "FAQ",
+			"pricing": "Pricing",
+			"login": "Login",
+			"menu": {
+				"profile": "My Profile",
+				"switchAccount": "Switch Account",
+				"logout": "Logout",
+				"switchLanguage": "Switch Language"
+			},
+			"blog": "Blog",
+			"dashboard": "Dashboard"
+		},
+		"myBlog": "My Blog",
+		"published": "Published",
+		"drafts": "Drafts",
+		"writeBlog": "Write a Blog",
+		"edit": "Edit",
+		"editBlog": "Edit Blog",
+		"lastEdited": "Last edited",
+		"markAsDraft": "Mark as draft",
+		"delete": "Delete",
+		"loadingAction": "Performing action, please wait...",
+		"time": {
+			"minutes": "minutes",
+			"minute": "minute",
+			"seconds": "seconds",
+			"second": "second"
+		},
+		"readTime": "read time",
+		"changesSaved": "All changes saved",
+		"saving": "Saving...",
+		"alert": {
+			"betaTitle": "Writegap is still in beta testing, which implies there might be some adaptations subsequently.",
+			"alertDismiss": "I understand",
+			"cookieConsentTitle": "We use cookies to analyze and monitor our website traffic and performance; we never collect any personal data",
+			"acceptCookies": "Accept cookies",
+			"learnMore": "Learn more"
+		}
+	},
+	"login": {
+		"title": "Welcome Back",
+		"subTitle": "Please enter your login credentials to start the exploration",
+		"tosMessage": "Writegap only reads profile data from the provider you choose. By logging in, you agree to our",
+		"privacyPolicy": "privacy policy",
+		"termsOfService": "terms of service",
+		"redirect": "Login success, please wait while we redirect you back..."
+	},
+	"footer": {
+		"brandText": "Writegap presents a place where you can write blog, narrate story, make tutorial, and tell the world whatever is in your mind.",
+		"brandRight": "2022, Writegap. All right reserved. Delivered with ❤️ by"
+	}
+}

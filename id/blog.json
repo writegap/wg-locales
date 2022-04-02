@@ -1,0 +1,69 @@
+{
+	"button": {
+		"downloadPDF": "Unduh PDF",
+		"discardImage": "Buang Gambar",
+		"applyImage": "Terapkan Gambar",
+		"uploadingImage": "Mengunggah..."
+	},
+	"hero": {
+		"title": "Tutorial, Artikel, Diskusi, dan lainnya!",
+		"subTitle": "Temukan segudang konten yang siap dijelajahi"
+	},
+	"input": {
+		"label": {
+			"topic": "Judul Topik",
+			"coverImage": "Gambar Sampul",
+			"category": "Kategori",
+			"tags": "Tag",
+			"body": "Isi Topik",
+			"summary": "Ringkasan",
+			"filename": "Nama file"
+		},
+		"subTitle": {
+			"coverImage": "Gambar akan digunakan sebagai thumbnail postingan Anda. Rasio aspek 16:9 direkomendasikan.",
+			"body": "Tulis postingan blog menggunakan sintaks Markdown. Apa itu Markdown?",
+			"summary": "Ringkasan akan ditampilkan sebagai thumbnail. Dengan demikian, sorot keseluruhan konten Anda sambil membuatnya semenarik mungkin"
+		},
+		"placeholder": {
+			"search": "Judul atau Kata Kunci",
+			"topic": "Subjek topik anda",
+			"category": "Kategori topik anda",
+			"tags": "Gunakan spasi atau enter untuk memisahkan tag",
+			"body": "Masukkan tulisan anda disini",
+			"summary": "Ringkasan dari keseluruhan konten"
+		},
+		"helperText": {
+			"topic": "Jelaskan topik Anda dengan baik, sambil buat judul sesingkat mungkin",
+			"category": "Pilih kategori yang paling relevan untuk postingan Anda",
+			"tags": "Tag yang tersedia"
+		}
+	},
+	"modal": {
+		"discardTitle": "Tutup Postingan?",
+		"discardSubtitle": "Tindakan ini akan menyimpan blog Anda ke draf dan mengarahkan Anda kembali ke dasbor.",
+		"publishTitle": "Publikasikan Postingan?",
+		"publishSubtitle": "Penerbitan akan menampilkan postingan Anda kepada publik, dan semua orang dapat membaca dan mengakses postingan blog Anda.",
+		"createPostTitle": "Buat Postingan Blog",
+		"createPostSubtitle": "Mulailah cerita Anda sendiri dan biarkan dunia tahu.",
+		"managePostTitle": "Kelola Postingan Anda",
+		"managePostSubTitle": "Pantau postingan mana yang online dan mana yang offline.",
+		"deletePostTitle": "Hapus Blog?",
+		"deletePostSubTitle": "Tindakan ini akan menghapus blog ini dari akun Anda. Silakan lanjutkan dengan hati-hati.",
+		"unpublishPostTitle": "Kirim blog ini ke draft?",
+		"unpublishPostSubTitle": "Tindakan ini akan membuat blog Anda tidak dapat diakses oleh orang lain dan akan ditandai sebagai draf. Silakan lanjutkan dengan hati-hati.",
+		"downloadPDFSubTitle": "Anda dapat secara opsional memberi nama file Anda di input di bawah ini. Jika tidak, nama akan dibuat secara otomatis.",
+		"editPostTitle": "Sunting Blog Anda",
+		"editPostSubTitle": "Sebelum dipublikasikan, Anda dapat mengedit dan mengelola konten blog Anda di sini."
+	},
+	"errorMessage": {
+		"completeBeforePublish": "Anda harus melengkapi semua bidang yang wajib diisi",
+		"emptyPublishedBlogs": "Anda belum memiliki blog yang diterbitkan.",
+		"emptyDraftedBlogs": "Anda tidak memiliki blog di daftar draf.",
+		"failedDownloadPDF": "Maaf, kami gagal membuat file Anda, harap coba lagi dalam beberapa saat."
+	},
+	"helperMessage": {
+		"publishedPanelMessage": "Tab ini menunjukkan berapa banyak blog yang Anda publikasikan. Jumlah maksimum blog yang diterbitkan diskalakan dengan langganan Anda.",
+		"draftedPanelMessage": "Tab ini menunjukkan berapa banyak blog draf yang Anda miliki. Di sini Anda dapat mengelola blog Anda sebelum dipublikasikan.",
+		"creatingBlogMessage": "Sedang membuat blog anda, mohon tunggu..."
+	}
+}

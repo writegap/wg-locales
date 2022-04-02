@@ -1,0 +1,69 @@
+{
+	"button": {
+		"downloadPDF": "Ngunduh PDF",
+		"discardImage": "Mbusak Gambar",
+		"applyImage": "Terapno Gambar",
+		"uploadingImage": "Ngunggah..."
+	},
+	"hero": {
+		"title": "Tutorial, Artikel, Diskusi, lan kabeh sing ana ing antarane!",
+		"subTitle": "Temokake akeh konten sing siap dijelajahi"
+	},
+	"input": {
+		"label": {
+			"topic": "Judhul Topik",
+			"coverImage": "Gambar Sampul",
+			"category": "Kategori",
+			"tags": "Tag",
+			"body": "Isi Topik",
+			"summary": "Ringkesan",
+			"filename": "Jeneng file"
+		},
+		"subTitle": {
+			"coverImage": "Gambar kasebut bakal digunakake minangka gambar cilik kiriman sampeyan. rasio aspek 16:9 dianjurake.",
+			"body": "Tulis postingan blog nggunakake sintaks Markdown. Apa iku Markdown?",
+			"summary": "Ringkesan bakal ditampilake minangka gambar cilik. Mangkono, sorot sakabèhé isi postingan sampeyan nalika nggawe atraktif"
+		},
+		"placeholder": {
+			"search": "Judhul utawa Kata Kunci",
+			"topic": "Subyek topik sampeyan",
+			"category": "Topik Kategori",
+			"tags": "Gunakake spasi utawa ketik kanggo misahake tag",
+			"body": "Menehi layang kene",
+			"summary": "Ringkesan sakabèhé isi"
+		},
+		"helperText": {
+			"topic": "Njlèntrèhaké topik sampeyan kanthi apik, nanging tetep judhul sing cendhak",
+			"category": "Pilih kategori sing paling cocog kanggo kiriman sampeyan",
+			"tags": "Tags kasedhiya"
+		}
+	},
+	"modal": {
+		"discardTitle": "Nutup Blog?",
+		"discardSubtitle": "Tindakan iki bakal nyimpen blog sampeyan menyang draf lan ngarahake sampeyan bali menyang dasbor.",
+		"publishTitle": "Nerbitake Postingan?",
+		"publishSubtitle": "Nerbitake bakal nuduhake kiriman sampeyan menyang umum, lan kabeh wong bisa maca lan ngakses kiriman blog sampeyan.",
+		"createPostTitle": "Nggawe Blog Post",
+		"createPostSubtitle": "Miwiti crita sampeyan dhewe lan supaya jagad ngerti.",
+		"managePostTitle": "Atur Posting Panjenengan",
+		"managePostSubTitle": "Lacak postingan endi sing online lan sing offline.",
+		"deletePostTitle": "Mbusak Blog?",
+		"deletePostSubTitle": "Tindakan iki bakal mbusak blog saka akun sampeyan. Mangga nerusake kanthi ati-ati.",
+		"unpublishPostTitle": "Ngirim blog iki kanggo draf?",
+		"unpublishPostSubTitle": "Tumindak iki bakal nggawe blog sampeyan ora bisa diakses wong liya lan bakal ditandhani minangka draf. Mangga nerusake kanthi ati-ati.",
+		"downloadPDFSubTitle": "Sampeyan bisa milih jeneng file ing input ngisor iki. Yen ora, jeneng bakal digawe otomatis.",
+		"editPostTitle": "Sunting Blog Panjenengan",
+		"editPostSubTitle": "Sadurunge nerbitake, sampeyan bisa ngowahi lan ngatur isi blog sampeyan ing kene."
+	},
+	"errorMessage": {
+		"completeBeforePublish": "Sampeyan kudu ngrampungake kabeh kolom sing dibutuhake",
+		"emptyPublishedBlogs": "Sampeyan durung duwe blog sing diterbitake.",
+		"emptyDraftedBlogs": "Sampeyan ora duwe blog ing daftar draf.",
+		"failedDownloadPDF": "Nuwun sewu, kita gagal nggawe file sampeyan, mangga coba maneh sawetara wektu."
+	},
+	"helperMessage": {
+		"publishedPanelMessage": "Tab ini menunjukkan berapa banyak blog yang Anda publikasikan. Jumlah maksimum blog yang diterbitkan diskalakan dengan langganan Anda.Tab iki nuduhake pirang-pirang blog sing wis diterbitake. Jumlah maksimum blog sing diterbitake diukur karo langganan sampeyan.",
+		"draftedPanelMessage": "Tab ini menunjukkan berapa banyak blog draf yang Anda miliki. Di sini Anda dapat mengelola blog Anda sebelum dipublikasikan.",
+		"creatingBlogMessage": "Sedang nggawe blog sampeyan, mohon tunggu..."
+	}
+}

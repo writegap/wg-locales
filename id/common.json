@@ -1,0 +1,91 @@
+{
+	"shared": {
+		"discover": "Temukan",
+		"createPost": "Buat Postingan",
+		"previewPost": "Pratinjau Postingan",
+		"learnMarkdown": "belajar markdown",
+		"optional": "Opsional",
+		"dragImageText": "Seret ke sini atau klik untuk menambahkan gambar.",
+		"dragImageSubText": "JPEG, JPG, atau PNG, tidak lebih dari 5MB.",
+		"editWithPreview": "Sunting dengan pratinjau",
+		"close": "Keluar",
+		"minimize": "Tutup",
+		"cancel": "Batal",
+		"loading": "Memuat...",
+		"calculating": "Menghitung...",
+		"download": "Unduh",
+		"downloadLoading": "Sedang Membuat PDF...",
+		"continueWriting": "Lanjutkan Menulis",
+		"publishPost": "Publikasikan postingan blog",
+		"publish": "Publikasikan",
+		"saveAndClose": "Simpan ke draft dan tutup",
+		"signIn": "Masuk",
+		"login": "Masuk",
+		"or": "atau",
+		"to": "ke",
+		"by": "oleh",
+		"and": "dan",
+		"back": "Kembali",
+		"noAccount": "Belum terdaftar?",
+		"alreadyHaveAccount": "Sudah memiliki akun?",
+		"createAccount": "Buat sebuah akun",
+		"provider": {
+			"google": "Masuk dengan Google",
+			"github": "Masuk dengan GitHub",
+			"twitter": "Masuk dengan Twitter",
+			"discord": "Masuk dengan Discord",
+			"linkedin": "Masuk dengan LinkedIn"
+		},
+		"header": {
+			"faq": "FAQ",
+			"pricing": "Harga",
+			"login": "Masuk",
+			"menu": {
+				"profile": "Profil saya",
+				"switchAccount": "Ganti akun",
+				"logout": "Keluar",
+				"switchLanguage": "Ganti Bahasa"
+			},
+			"blog": "Blog",
+			"dashboard": "Dasbor"
+		},
+		"myBlog": "Blog Saya",
+		"published": "Diterbitkan",
+		"drafts": "Draf",
+		"writeBlog": "Tulis Blog",
+		"edit": "Sunting",
+		"editBlog": "Sunting Blog",
+		"lastEdited": "Terakhir disunting",
+		"markAsDraft": "Tandai sebagai draf",
+		"delete": "Hapus",
+		"loadingAction": "Melakukan tindakan, mohon tunggu...",
+		"time": {
+			"minutes": "menit",
+			"minute": "menit",
+			"seconds": "detik",
+			"second": "detik"
+		},
+		"readTime": "waktu baca",
+		"changesSaved": "Perubahan disimpan",
+		"saving": "Menyimpan...",
+		"alert": {
+			"betaTitle": "Writegap dalam tahap pengujian beta, ini memungkinkan ada adaptasi lanjutan nantinya.",
+			"alertDismiss": "Saya mengerti",
+			"cookieConsentTitle": "Kami menggunakan cookie untuk menganalisis dan memantau lalu lintas dan kinerja situs kami; kami tidak pernah mengumpulkan data pribadi apa pun",
+			"acceptCookies": "Setujui cookies",
+			"learnMore": "Pelajari"
+		}
+	},
+	"login": {
+		"title": "Selamat Datang",
+		"subTitle": "Masukkan kredensial login Anda untuk memulai eksplorasi",
+		"tosMessage": "Writegap hanya membaca data profil dari penyedia yang Anda pilih. Dengan masuk, Anda menyetujui",
+		"privacyPolicy": "kebijakan privasi",
+		"termsOfService": "persyaratan layanan kami",
+		"redirect": "Berhasil masuk, mohon tunggu kami mengarahkan Anda kembali..."
+	},
+	"footer": {
+		"brandText": "Writegap menghadirkan tempat di mana Anda dapat menulis blog, menceritakan kisah, membuat tutorial, dan menceritakan kepada dunia apa pun yang ada di pikiran Anda.",
+		"brandRight": "2022, Writegap. Hak cipta dilindungi. Dibuat dengan ❤️ oleh"
+	}
+}
